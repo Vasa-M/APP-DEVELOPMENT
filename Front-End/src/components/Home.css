@@ -1,0 +1,106 @@
+.vv
+{
+    width: 90%;
+    /* height: 2000px; */
+    /* padding-top: 1px; */
+    /* margin-top:1px ; */
+    margin-bottom: 120px;
+}
+.si_up
+{
+    margin-left: -15rem;
+}
+.zz
+{
+    width: 50%;
+    padding-top: 100px;
+}
+.mtt-1
+{
+    width: 300px;
+    margin-left: -1rem;
+}
+.aaa
+{
+    margin-left: 17rem;
+    margin-bottom: -5rem;
+}
+.aa
+{
+    margin-left: 12rem;
+    margin-bottom: -5rem;
+}
+.mv
+{
+    margin-left: 405px !important;
+}
+#movee{
+    margin-left: 90px;
+}
+.bord
+{
+    margin-left: -30rem;
+    display: flex;
+}
+.aaa{
+    margin-right: 100px;
+}
+b{
+    padding-right: 2rem;
+}
+p{
+    padding-right: 4rem;
+}
+.mt-3-link-mv1{
+    padding-left: 420px;
+    padding-top: 1rem;
+}
+.videos
+{
+    padding-top: 5rem;
+    height: 105%;
+    width: 95%;
+}
+.dd
+{
+    display:flex ;
+}
+.flex1
+{
+    flex: 1;
+}
+.flex2
+{
+    flex: 1;
+}
+.main{
+    display: flex;
+}
+.tem1{
+    height: 500px;
+    width:50%;
+    background-color: rgb(255, 255, 255);
+}
+.tem2{
+    height: 500px;
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+}
+.main1{
+    display:flex;
+}
+.tems1{
+    height:500px;
+    width:50%;
+    background-color: rgb(255, 255, 255);
+}
+.tems2{
+    height:500px;
+    width:50%;
+    background-color: rgb(255, 255, 255);
+}
+.mv
+{
+    padding-left: 4rem;
+    padding-top: 10px;
+}
